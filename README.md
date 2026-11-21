@@ -34,7 +34,7 @@ $ git clone https://github.com/AhmedKamel200058/Dalil.git
 $ Dalil
 $ uv synch
 ```
-#### In case if you not use uv can be download dependancies by using req.txt
+#### if you not use uv can be download dependancies by using req.txt
 
 ```bash
 $ pip install -r requirements.txt
